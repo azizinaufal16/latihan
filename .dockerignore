@@ -1,0 +1,9 @@
+.devcontainer/
+.env
+.env.*
+.github/
+.vscode/
+composer.lock
+docs/
+node_modules/
+vendor/
