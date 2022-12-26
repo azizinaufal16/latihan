@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "adrianwilczynski.alpine-js-intellisense",
+    "bmewburn.vscode-intelephense-client",
+    "cpylua.language-postcss",
+    "dbaeumer.vscode-eslint",
+    "editorconfig.editorconfig",
+    "github.vscode-pull-request-github",
+    "lokalise.i18n-ally",
+    "mikestead.dotenv",
+    "mtxr.sqltools",
+    "mtxr.sqltools-driver-pg",
+    "rangav.vscode-thunder-client"
+  ]
+}
